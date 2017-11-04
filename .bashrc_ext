@@ -1,0 +1,4 @@
+# Add "source .bashcr_ext" to .bach_profile
+export TERM=screen-256color
+alias tm="tmux attach -t base || tmux new -s base"
+
